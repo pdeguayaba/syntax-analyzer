@@ -1,6 +1,7 @@
 
 # SYNTAX ANALYZER
 **Version 1.0.0**
+
 Simple syntax analyzer assignment that I made for the programming languages course I was taking in Fall 2019. It's made for different scenarios and it was written in Java.
 
 
